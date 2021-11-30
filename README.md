@@ -1,4 +1,4 @@
-# iBitcoin
+# Bitcoin Tracker
 
 Track live exchange rates from fiat currency to cryptocurrencies!
 
