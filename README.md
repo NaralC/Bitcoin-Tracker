@@ -1,16 +1,17 @@
-# coin_tracker_test
+# iBitcoin
 
-A new Flutter project.
+Track live exchange rates from fiat currency to cryptocurrencies!
 
-## Getting Started
+## Preview
+![Alt Text](https://i.imgur.com/sMqVgfs.gif)
 
-This project is a starting point for a Flutter application.
+## Description
 
-A few resources to get you started if this is your first Flutter project:
+This project was created to practice pulling API requests and Flutter state management.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Third Party Dependencies:\
+‣ http \
+‣ cupertino_icons \
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Website & Data Provider:\
+‣ https://www.coinapi.io/ \
