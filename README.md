@@ -11,7 +11,7 @@ This project was created to practice pulling API requests and Flutter state mana
 
 Third Party Dependencies:\
 ‣ http \
-‣ cupertino_icons \
+‣ cupertino_icons 
 
 Website & Data Provider:\
-‣ https://www.coinapi.io/ \
+‣ https://www.coinapi.io/ 
